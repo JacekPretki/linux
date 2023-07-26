@@ -12,3 +12,4 @@
 * Ctrl + R - szukaj w historii wpisanych komend
 
 Hello
+Hello 3
